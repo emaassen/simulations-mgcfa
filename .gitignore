@@ -1,0 +1,10 @@
+# ignore individual result files
+*/results/
+
+# ignore writing files
+/writing/
+
+# misc files
+*.Rhistory
+*.pdf
+*.docx
